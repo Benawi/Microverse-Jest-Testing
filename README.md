@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# 📗 Table of Contents
+# 📗 Table of Contents      => Give me ⭐️ If you like this project! 
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
